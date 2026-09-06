@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "usr-sih-demo",
+      "email": "mahidhargubbala@gmail.com",
+      "name": "Mahidhar Gubbala",
+      "passwordHash": "satquery2026",
+      "organization": "Earth Observation Lab",
+      "role": "Lead Analyst",
+      "createdAt": "2026-03-01T10:00:00.000Z"
+    }
+  ],
+  "topology": {
+    "mode": "gpu",
+    "label": "GPU Server Cluster (NVIDIA H100 SXM)",
+    "latency": "0.14ms Latency"
+  },
+  "analyses": []
+}
